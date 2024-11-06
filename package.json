@@ -42,7 +42,7 @@
     "eslint-plugin-jsx-a11y": "^6.7.1",
     "fuse.js": "^6.6.2",
     "gray-matter": "^4.0.3",
-    "happy-dom": "^12.9.1",
+    "happy-dom": "^15.10.2",
     "hint.css": "^2.7.0",
     "html-inline-external": "^1.0.10",
     "playwright": "^1.38.1",
